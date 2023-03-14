@@ -1,0 +1,1 @@
+﻿1 => Su ana kadar yapmıs oldugunu bütün veritabanlarının(WOW,Otel,Arac Kiralama, Arac Ariza,Bilge Adam, Akademik Makale), Code First ile  MVC icerisinde en az iki tablo üzerinden Crud işlemlerinin yapılmasını istiyorum(coka cok birebir yapmayın)
